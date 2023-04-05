@@ -1,4 +1,5 @@
-## Copyright 2021, [YOUR NAME]
+## Copyright 2023, [Mohamed Gamil Eldimardash]
+## Copyright 2023, [Lucas Comamala Garcia]
 
 ###### Please delete this line and the next one
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
