@@ -214,6 +214,6 @@ I would like to thank the Microverse team for their invaluable resources
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/MMGGYY66/ruby-decode-morse-code/blob/methods-to-decode-Morse-code/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
