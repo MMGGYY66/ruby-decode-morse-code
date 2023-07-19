@@ -13,8 +13,8 @@ end
 def decode_word(word)
   decoded_word = ''
   arr = word.split
-  arr.each do |c|
-    decoded_word += decode_char(c)
+  arr.each do |char|
+    decoded_word += decode_char(char)
   end
   decoded_word
 end
