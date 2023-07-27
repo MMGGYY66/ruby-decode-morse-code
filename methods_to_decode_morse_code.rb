@@ -23,7 +23,7 @@ def decode_message(string)
   new_string = ''
   string_to_array = string.split(/  /)
   string_to_array.each do |word|
-    new_string += decode_word(word)
+    new_string += decde_word(word)
     new_string += ' '
   end
   new_string
